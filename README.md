@@ -106,9 +106,7 @@ Algonquin College, Ottawa, Ontario, Canada
 
 > **Background:** Former Assistant Professor of Statistics with multiple peer-reviewed publications in advanced statistical modeling, longitudinal data analysis, and geospatial methods. Now transitioning into Data Analytics and Business Intelligence roles.
 
-<a href="https://www.linkedin.com/in/muluwerk-derebe-b959243a6/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muluwerk-derebe-b959243a6/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)]([https://github.com/your-username](https://github.com/muluwerkderebe-StatisticalAnalyst))
 [![Resume](https://img.shields.io/badge/Resume-View-green?style=flat)]([https://your-resume-link](https://muluwerkderebe-statisticalanalyst.github.io/Portifolio.io/))
 
